@@ -15,3 +15,4 @@ Otvori `index.html` u browseru. Nema instalacije ni zavisnosti.
 
 ## Hosting
 Statički sajt — može na Netlify, GitHub Pages, ili bilo koji statički host.
+# MoneyAPP
